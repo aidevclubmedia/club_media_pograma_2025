@@ -36,7 +36,7 @@ const App: React.FC = () => {
           <div 
             className="absolute inset-0 bg-cover bg-center"
             style={{
-              backgroundImage: 'url(/images/background_pograma.png)'
+              backgroundImage: 'url(https://mymrdouzyuqlimxtysun.supabase.co/storage/v1/object/sign/images/background_pograma.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jMTI2MTc1ZS1mYzE4LTQ3MjctYjk2Yi1jZDdjMjliNWI2OWYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJpbWFnZXMvYmFja2dyb3VuZF9wb2dyYW1hLnBuZyIsImlhdCI6MTc0OTQwNzE5MywiZXhwIjozMzI2MjA3MTkzfQ.r-tetDvVFhQm437QdJQvt_2y9n_hgGuSmBTUkmCPzpY)'
             }}
           />
           <div className="absolute inset-0 bg-gradient-to-b from-[#0B1120] via-[#0B1120]/80 to-[#0B1120]" />
