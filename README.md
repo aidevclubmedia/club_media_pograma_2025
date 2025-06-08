@@ -2,13 +2,16 @@ POGrama Shelf Designer AI
 A React + Vite web application built to design and manage AI-powered retail planograms. It provides tools for product placement on shelves, analytics, and optimization suggestions using AI.
 
 📘 Project Overview: What it Does
+
 POGrama is a planogram editor and optimizer that enables users to:
-•	🛒 Design store layouts and product placements visually
-•	⚙️ Drag and drop products to shelves
-•	📊 Analyze shelf space, weight, compliance, and sales
-•	🤖 Automatically generate planograms using Gemini AI
-•	🧠 Receive optimization suggestions and insights
-•	🎨 View product arrangements in 2D and 3D
+
+1. 🛒 Design store layouts and product placements visually
+2. ⚙️ Drag and drop products to shelves
+3. 📊 Analyze shelf space, weight, compliance, and sales
+4. 🤖 Automatically generate planograms using Gemini AI
+5. 🧠 Receive optimization suggestions and insights
+6. 🎨 View product arrangements in 2D and 3D
+7. POGrama assistant Chatbot to assists you with your concerns related to planogram
 
 ________________________________________
 ⚙️ Key Features
