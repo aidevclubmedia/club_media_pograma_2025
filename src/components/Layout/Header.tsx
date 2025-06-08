@@ -71,7 +71,7 @@ const Header: React.FC<HeaderProps> = ({ toggleSidebar }) => {
         </button>
         <Link to="/" className="flex items-center">
           <img 
-            src="/images/Pograma_Header_Logo.png"
+            src="https://mymrdouzyuqlimxtysun.supabase.co/storage/v1/object/sign/images/Pograma_Header_Logo.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jMTI2MTc1ZS1mYzE4LTQ3MjctYjk2Yi1jZDdjMjliNWI2OWYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJpbWFnZXMvUG9ncmFtYV9IZWFkZXJfTG9nby5wbmciLCJpYXQiOjE3NDk0MDc1MzcsImV4cCI6MzMyNjIwNzUzN30.rg72WnN2erKHH8sAMn8goTOARLSPa-hZu9EUUjjTU2k"
             alt="POGrama"
             className="h-10 w-auto object-contain"
           />
