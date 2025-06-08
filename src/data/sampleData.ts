@@ -85,7 +85,7 @@ export const sampleProducts: Product[] = [
     "minFacings": 2,
     "maxFacings": 4,
     "priority": 80,
-    "imageUrl": "/images/basic/0006_OilBottle_90xx90x300cm.png"
+    "imageUrl": "https://mymrdouzyuqlimxtysun.supabase.co/storage/v1/object/sign/images/product/0006_OilBottle_90xx90x300cm.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jMTI2MTc1ZS1mYzE4LTQ3MjctYjk2Yi1jZDdjMjliNWI2OWYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJpbWFnZXMvcHJvZHVjdC8wMDA2X09pbEJvdHRsZV85MHh4OTB4MzAwY20ucG5nIiwiaWF0IjoxNzQ5NDA2NzIyLCJleHAiOjMzMjYyMDY3MjJ9.EkvUXSf3oqhiWQpFS_btKLLNvW4XxQ-FaEKC_wbGagM"
   },
   {
     "id": "0007",
