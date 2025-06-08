@@ -51,7 +51,7 @@ export const sampleProducts: Product[] = [
     "minFacings": 4,
     "maxFacings": 8,
     "priority": 75,
-    "imageUrl": "/images/basic/0003_HandSoap_80x80x280mm.png"
+    "imageUrl": "https://mymrdouzyuqlimxtysun.supabase.co/storage/v1/object/sign/images/product/0003_HandSoap_80x80x280mm.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jMTI2MTc1ZS1mYzE4LTQ3MjctYjk2Yi1jZDdjMjliNWI2OWYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJpbWFnZXMvcHJvZHVjdC8wMDAzX0hhbmRTb2FwXzgweDgweDI4MG1tLnBuZyIsImlhdCI6MTc0OTQwNjY4NiwiZXhwIjozMzI2MjA2Njg2fQ.NKXFZIKeeCElKhqbc-UpmTH5C81G9koCJ69fdvblmMA"
   },
   {
     "id": "0005",
