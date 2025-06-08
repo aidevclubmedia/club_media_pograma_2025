@@ -9,6 +9,7 @@ POGrama is a planogram editor and optimizer that enables users to:
 •	🤖 Automatically generate planograms using Gemini AI
 •	🧠 Receive optimization suggestions and insights
 •	🎨 View product arrangements in 2D and 3D
+
 ________________________________________
 ⚙️ Key Features
 •	Interactive Planogram Designer (/designer)
@@ -21,6 +22,7 @@ ________________________________________
 🧪 Example Usage
 Visit the landing page:
 Go to https://pograma.netlify.app/ — this is the page to access for POGrama.
+
 Open Planogram Designer:
 Navigate to https://pograma.netlify.app/ to:
 1.	Click Try POGrama
@@ -32,23 +34,17 @@ Navigate to https://pograma.netlify.app/ to:
 
 🧠 Notable Components
 Component	Description
-PlanogramView
-Shows correct layout view based on selection
-AutoGeneratePlanogram
-Sends prompt to Gemini AI and applies JSON planogram
-ShelfView
-Core visual editor for shelves
-DroppableShelf
-Manages product dropping & layout constraints
-ShelfAnalytics
-Shows profit, weight, and compliance issues
-OptimizationPanel
-Suggests actionable layout improvements
+1. PlanogramView - Shows correct layout view based on selection
+2. AutoGeneratePlanogram - Sends prompt to Gemini AI and applies JSON planogram
+3. ShelfView - Core visual editor for shelves
+4. DroppableShelf - Manages product dropping & layout constraints
+5. ShelfAnalytics - Shows profit, weight, and compliance issues
+6. OptimizationPanel - Suggests actionable layout improvements
 ________________________________________
 🧩 Tech Stack
-•	⚛ React + TypeScript
-•	🧩 react-dnd for drag-and-drop
-•	🌈 Tailwind CSS for styling
-•	🔥 react-hot-toast for notifications
-•	🤖 Gemini AI (via GoogleGenerativeAI SDK)
-•	🚀 Vite for bundling
+1. ⚛ React + TypeScript
+2. 🧩 react-dnd for drag-and-drop
+3. 🌈 Tailwind CSS for styling
+4. 🔥 react-hot-toast for notifications
+5. 🤖 Gemini AI (via GoogleGenerativeAI SDK)
+6. 🚀 Vite for bundling
