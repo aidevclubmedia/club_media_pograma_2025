@@ -60,7 +60,7 @@ const BayView: React.FC = () => {
 
   const handleExportLayout = async () => {
     try {
-      const response = await fetch('/images/Export_Bay_Layout.png');
+      const response = await fetch('https://mymrdouzyuqlimxtysun.supabase.co/storage/v1/object/sign/images/Export_Bay_Layout.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jMTI2MTc1ZS1mYzE4LTQ3MjctYjk2Yi1jZDdjMjliNWI2OWYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJpbWFnZXMvRXhwb3J0X0JheV9MYXlvdXQucG5nIiwiaWF0IjoxNzQ5NDA3NDcyLCJleHAiOjMzMjYyMDc0NzJ9.Uh6zH2koBqd3cH-UaKFFTpLcusC65xAcjaQTiy--jvA');
       if (!response.ok) throw new Error('Failed to fetch image');
       
       const blob = await response.blob();
