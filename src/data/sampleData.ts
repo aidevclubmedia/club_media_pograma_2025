@@ -17,7 +17,7 @@ export const sampleProducts: Product[] = [
     "minFacings": 2,
     "maxFacings": 4,
     "priority": 85,
-    "imageUrl": "/images/basic/0001_BodyWash_50x199x280mm.png"
+    "imageUrl": "https://mymrdouzyuqlimxtysun.supabase.co/storage/v1/object/sign/images/product/0001_BodyWash_50x199x280mm.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jMTI2MTc1ZS1mYzE4LTQ3MjctYjk2Yi1jZDdjMjliNWI2OWYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJpbWFnZXMvcHJvZHVjdC8wMDAxX0JvZHlXYXNoXzUweDE5OXgyODBtbS5wbmciLCJpYXQiOjE3NDk0MDY1NTksImV4cCI6MjY5NTQ4NjU1OX0.fYodq9zvZNpJ4jadVa5GoC2cmK2VZ6j1DAv3FOXssz8"
   },
   {
     "id": "0002",
