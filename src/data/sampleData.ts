@@ -17,7 +17,7 @@ export const sampleProducts: Product[] = [
     "minFacings": 2,
     "maxFacings": 4,
     "priority": 85,
-    "imageUrl": "src/data/images/products/basic/0001_BodyWash_50x199x280mm.png"
+    "imageUrl": "/home/project/src/data/images/Pograma_Header_Logo.png"
   },
   {
     "id": "0002",
