@@ -102,7 +102,7 @@ export const sampleProducts: Product[] = [
     "minFacings": 1,
     "maxFacings": 3,
     "priority": 85,
-    "imageUrl": "/images/basic/0007_Parfum_60x60x120mm.png"
+    "imageUrl": "https://mymrdouzyuqlimxtysun.supabase.co/storage/v1/object/sign/images/product/0007_Parfum_60x60x120mm.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jMTI2MTc1ZS1mYzE4LTQ3MjctYjk2Yi1jZDdjMjliNWI2OWYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJpbWFnZXMvcHJvZHVjdC8wMDA3X1BhcmZ1bV82MHg2MHgxMjBtbS5wbmciLCJpYXQiOjE3NDk0MDY3MzcsImV4cCI6MzMyNjIwNjczN30.uPUcr-Ts6fYsss68BotDGDMWMppAPA4H3J2-tyb3QwY"
   },
   {
     "id": "0008",
@@ -119,7 +119,7 @@ export const sampleProducts: Product[] = [
     "minFacings": 2,
     "maxFacings": 4,
     "priority": 90,
-    "imageUrl": "/images/basic/0008_Perfume_50x70x120mm.png"
+    "imageUrl": "https://mymrdouzyuqlimxtysun.supabase.co/storage/v1/object/sign/images/product/0008_Perfume_50x70x120mm.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jMTI2MTc1ZS1mYzE4LTQ3MjctYjk2Yi1jZDdjMjliNWI2OWYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJpbWFnZXMvcHJvZHVjdC8wMDA4X1BlcmZ1bWVfNTB4NzB4MTIwbW0ucG5nIiwiaWF0IjoxNzQ5NDA2NzUxLCJleHAiOjMzMjYyMDY3NTF9.Mz_HxmYydAswZpS1bgN9-Vm9jl8nSC1cqJL0GnGHdU4"
   },
   {
     "id": "0009",
