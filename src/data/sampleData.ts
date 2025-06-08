@@ -34,7 +34,7 @@ export const sampleProducts: Product[] = [
     "minFacings": 3,
     "maxFacings": 6,
     "priority": 90,
-    "imageUrl": "/images/basic/0002_Fabcon_80x180x280mm.png"
+    "imageUrl": "https://mymrdouzyuqlimxtysun.supabase.co/storage/v1/object/sign/images/product/0002_Fabcon_80x180x280mm.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jMTI2MTc1ZS1mYzE4LTQ3MjctYjk2Yi1jZDdjMjliNWI2OWYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJpbWFnZXMvcHJvZHVjdC8wMDAyX0ZhYmNvbl84MHgxODB4MjgwbW0ucG5nIiwiaWF0IjoxNzQ5NDA2NjcxLCJleHAiOjMzMjYyMDY2NzF9.qgZnl4LFcj6Z0l3Lzhllccixhyp10SXK8Ya9jGFdsOU"
   },
   {
     "id": "0003",
