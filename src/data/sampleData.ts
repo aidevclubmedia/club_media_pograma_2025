@@ -17,7 +17,7 @@ export const sampleProducts: Product[] = [
     "minFacings": 2,
     "maxFacings": 4,
     "priority": 85,
-    "imageUrl": "public/images/basic/0001_BodyWash_50x199x280mm.png"
+    "imageUrl": "/images/basic/0001_BodyWash_50x199x280mm.png"
   },
   {
     "id": "0002",
@@ -34,7 +34,7 @@ export const sampleProducts: Product[] = [
     "minFacings": 3,
     "maxFacings": 6,
     "priority": 90,
-    "imageUrl": "src/data/images/products/basic/0002_Fabcon_80x180x280mm.png"
+    "imageUrl": "/images/basic/0002_Fabcon_80x180x280mm.png"
   },
   {
     "id": "0003",
@@ -51,7 +51,7 @@ export const sampleProducts: Product[] = [
     "minFacings": 4,
     "maxFacings": 8,
     "priority": 75,
-    "imageUrl": "src/data/images/products/basic/0003_HandSoap_80x80x280mm.png"
+    "imageUrl": "/images/basic/0003_HandSoap_80x80x280mm.png"
   },
   {
     "id": "0005",
@@ -68,7 +68,7 @@ export const sampleProducts: Product[] = [
     "minFacings": 3,
     "maxFacings": 7,
     "priority": 65,
-    "imageUrl": "src/data/images/products/basic/0005_MedBottle_50x50x100mm.png"
+    "imageUrl": "/images/basic/0005_MedBottle_50x50x100mm.png"
   },
   {
     "id": "0006",
@@ -85,7 +85,7 @@ export const sampleProducts: Product[] = [
     "minFacings": 2,
     "maxFacings": 4,
     "priority": 80,
-    "imageUrl": "src/data/images/products/basic/0006_OilBottle_90xx90x300cm.png"
+    "imageUrl": "/images/basic/0006_OilBottle_90xx90x300cm.png"
   },
   {
     "id": "0007",
@@ -102,7 +102,7 @@ export const sampleProducts: Product[] = [
     "minFacings": 1,
     "maxFacings": 3,
     "priority": 85,
-    "imageUrl": "src/data/images/products/basic/0007_Parfum_60x60x120mm.png"
+    "imageUrl": "/images/basic/0007_Parfum_60x60x120mm.png"
   },
   {
     "id": "0008",
@@ -119,7 +119,7 @@ export const sampleProducts: Product[] = [
     "minFacings": 2,
     "maxFacings": 4,
     "priority": 90,
-    "imageUrl": "src/data/images/products/basic/0008_Perfume_50x70x120mm.png"
+    "imageUrl": "/images/basic/0008_Perfume_50x70x120mm.png"
   },
   {
     "id": "0009",
@@ -136,7 +136,7 @@ export const sampleProducts: Product[] = [
     "minFacings": 3,
     "maxFacings": 5,
     "priority": 75,
-    "imageUrl": "src/data/images/products/basic/0009_Soya_75x75x280.png"
+    "imageUrl": "/images/basic/0009_Soya_75x75x280.png"
   },
   {
     "id": "0010",
@@ -153,7 +153,7 @@ export const sampleProducts: Product[] = [
     "minFacings": 4,
     "maxFacings": 100,
     "priority": 1,
-    "imageUrl": "src/data/images/products/basic/0010_Tube_50x50x150mm.png"
+    "imageUrl": "/images/basic/0010_Tube_50x50x150mm.png"
   },
   {
     "id": "0011",
@@ -170,7 +170,7 @@ export const sampleProducts: Product[] = [
     "minFacings": 5,
     "maxFacings": 10,
     "priority": 85,
-    "imageUrl": "src/data/images/products/basic/0011_Water_80x80x200mm.png"
+    "imageUrl": "/images/basic/0011_Water_80x80x200mm.png"
   }
 ];
 

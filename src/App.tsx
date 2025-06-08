@@ -10,7 +10,7 @@ const App: React.FC = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-2">
               <img 
-                src="/src/data/images/Pograma_Header_Logo.png"
+                src="/images/Pograma_Header_Logo.png"
                 alt="POGrama"
                 className="h-8 w-auto object-contain lg:h-10"
               />
@@ -36,7 +36,7 @@ const App: React.FC = () => {
           <div 
             className="absolute inset-0 bg-cover bg-center"
             style={{
-              backgroundImage: 'url(/src/data/images/background_pograma.png)'
+              backgroundImage: 'url(/images/background_pograma.png)'
             }}
           />
           <div className="absolute inset-0 bg-gradient-to-b from-[#0B1120] via-[#0B1120]/80 to-[#0B1120]" />

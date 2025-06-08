@@ -60,7 +60,7 @@ const BayView: React.FC = () => {
 
   const handleExportLayout = async () => {
     try {
-      const response = await fetch('src/data/images/Export_Bay_Layout.png');
+      const response = await fetch('/images/Export_Bay_Layout.png');
       if (!response.ok) throw new Error('Failed to fetch image');
       
       const blob = await response.blob();
@@ -80,8 +80,8 @@ const BayView: React.FC = () => {
 
   const handleExportPDF = async () => {
     try {
-      const response = await fetch('src/data/Export_Bay_Layout.pdf');
-      if (!response.ok) throw new Error('Failed to fetch image');
+      const response = await fetch('/Export_Bay_Layout.pdf');
+      if (!response.ok) throw new Error('Failed to fetch PDF');
       
       const blob = await response.blob();
       const url = window.URL.createObjectURL(blob);
