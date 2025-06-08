@@ -80,7 +80,7 @@ const BayView: React.FC = () => {
 
   const handleExportPDF = async () => {
     try {
-      const response = await fetch('/Export_Bay_Layout.pdf');
+      const response = await fetch('https://mymrdouzyuqlimxtysun.supabase.co/storage/v1/object/sign/images/Export_Bay_Layout.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jMTI2MTc1ZS1mYzE4LTQ3MjctYjk2Yi1jZDdjMjliNWI2OWYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJpbWFnZXMvRXhwb3J0X0JheV9MYXlvdXQucGRmIiwiaWF0IjoxNzQ5NDA3NDE3LCJleHAiOjMzMjYyMDc0MTd9.CDzMdWOwWOpHwwbVV6vwIwWx0xRJHPr9ejV3-F2NUi0');
       if (!response.ok) throw new Error('Failed to fetch PDF');
       
       const blob = await response.blob();
