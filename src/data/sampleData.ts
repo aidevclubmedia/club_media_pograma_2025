@@ -68,7 +68,7 @@ export const sampleProducts: Product[] = [
     "minFacings": 3,
     "maxFacings": 7,
     "priority": 65,
-    "imageUrl": "/images/basic/0005_MedBottle_50x50x100mm.png"
+    "imageUrl": "https://mymrdouzyuqlimxtysun.supabase.co/storage/v1/object/sign/images/product/0005_MedBottle_50x50x100mm.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jMTI2MTc1ZS1mYzE4LTQ3MjctYjk2Yi1jZDdjMjliNWI2OWYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJpbWFnZXMvcHJvZHVjdC8wMDA1X01lZEJvdHRsZV81MHg1MHgxMDBtbS5wbmciLCJpYXQiOjE3NDk0MDY3MDksImV4cCI6MzMyNjIwNjcwOX0.XoezLW30gD_6XnDV4NlDNkoxnBhufX4N_V71Ulqa4ok"
   },
   {
     "id": "0006",
