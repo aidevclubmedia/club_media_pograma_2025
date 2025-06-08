@@ -136,7 +136,7 @@ export const sampleProducts: Product[] = [
     "minFacings": 3,
     "maxFacings": 5,
     "priority": 75,
-    "imageUrl": "/images/basic/0009_Soya_75x75x280.png"
+    "imageUrl": "https://mymrdouzyuqlimxtysun.supabase.co/storage/v1/object/sign/images/product/0009_Soya_75x75x280.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jMTI2MTc1ZS1mYzE4LTQ3MjctYjk2Yi1jZDdjMjliNWI2OWYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJpbWFnZXMvcHJvZHVjdC8wMDA5X1NveWFfNzV4NzV4MjgwLnBuZyIsImlhdCI6MTc0OTQwNjc2NSwiZXhwIjozMzI2MjA2NzY1fQ.XxApImTCcMl33zaBSM7D_76zZL35Hpss4q6ijrq_Eag"
   },
   {
     "id": "0010",
