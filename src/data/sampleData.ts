@@ -153,7 +153,7 @@ export const sampleProducts: Product[] = [
     "minFacings": 4,
     "maxFacings": 100,
     "priority": 1,
-    "imageUrl": "/images/basic/0010_Tube_50x50x150mm.png"
+    "imageUrl": "https://mymrdouzyuqlimxtysun.supabase.co/storage/v1/object/sign/images/product/0010_Tube_50x50x150mm.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jMTI2MTc1ZS1mYzE4LTQ3MjctYjk2Yi1jZDdjMjliNWI2OWYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJpbWFnZXMvcHJvZHVjdC8wMDEwX1R1YmVfNTB4NTB4MTUwbW0ucG5nIiwiaWF0IjoxNzQ5NDA2ODE0LCJleHAiOjMzMjYyMDY4MTR9.JBXgigwWtiulHllUtBV0eqFVEEtsJAX1eLbZmkiiw9U"
   },
   {
     "id": "0011",
@@ -170,7 +170,7 @@ export const sampleProducts: Product[] = [
     "minFacings": 5,
     "maxFacings": 10,
     "priority": 85,
-    "imageUrl": "/images/basic/0011_Water_80x80x200mm.png"
+    "imageUrl": "https://mymrdouzyuqlimxtysun.supabase.co/storage/v1/object/sign/images/product/0011_Water_80x80x200mm.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jMTI2MTc1ZS1mYzE4LTQ3MjctYjk2Yi1jZDdjMjliNWI2OWYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJpbWFnZXMvcHJvZHVjdC8wMDExX1dhdGVyXzgweDgweDIwMG1tLnBuZyIsImlhdCI6MTc0OTQwNjc5NiwiZXhwIjozMzI2MjA2Nzk2fQ.ldET6BxdAG-oNFhC06fNptb_ZqsKstubvu7FAbqXReI"
   }
 ];
 
