@@ -10,7 +10,7 @@ const App: React.FC = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-2">
               <img 
-                src="/images/Pograma_Header_Logo.png"
+                src="https://mymrdouzyuqlimxtysun.supabase.co/storage/v1/object/sign/images/Pograma_Header_Logo.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jMTI2MTc1ZS1mYzE4LTQ3MjctYjk2Yi1jZDdjMjliNWI2OWYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJpbWFnZXMvUG9ncmFtYV9IZWFkZXJfTG9nby5wbmciLCJpYXQiOjE3NDk0MDcxNTEsImV4cCI6MzMyNjIwNzE1MX0.pnGSFCesjaxyi6_889sbqlhLR5kN0vrjKnaG-C8dX1g"
                 alt="POGrama"
                 className="h-8 w-auto object-contain lg:h-10"
               />
